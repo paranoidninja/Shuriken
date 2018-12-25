@@ -10,6 +10,4 @@ Currently the Kernel Supports the following features:
 5.  Hackrf/USB Ethernet/DVRs
 6.	All other usual features of the Linux
 
-![image](https://user-images.githubusercontent.com/21009111/50426129-c2a61f80-089f-11e9-868c-9443b8953c5f.jpg)
-
 ![image](https://user-images.githubusercontent.com/21009111/50426267-6a711c80-08a3-11e9-9904-80dee4fe8aaf.jpg)
